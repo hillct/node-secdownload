@@ -1,3 +1,4 @@
+"use strict";
 var expect = require('unexpected').clone()
 	.installPlugin(require('unexpected-express'));
 var secDownload = require('../lib/secdownload');
