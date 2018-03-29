@@ -1,5 +1,5 @@
 {
-  "name": "node-secdownload",
+  "name": "express-secdownload",
   "version": "1.0.0",
   "description": "mod_secDownload comptible ephemeral URL security system",
   "main": "lib/secdownload.js",
