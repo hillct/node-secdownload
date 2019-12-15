@@ -22,7 +22,7 @@
     "express": "^4.16.3",
     "istanbul": "^0.4.5",
     "mocha": "^5.0.5",
-    "unexpected": "^10.37.2",
+    "unexpected": "^11.9.0",
     "unexpected-express": "^10.0.0",
     "unexpected-messy": "^7.4.1"
   },
